@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launcher_search_bar_provider_title">搜索栏提供者</string>
+    <string name="double_tap_to_lock_title">双击锁屏</string>
+    <string name="hide_apps_title">隐藏应用图标</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="charge_animation_style_entries">
+        <item>关闭</item>
+        <item>流动</item>
+        <item>光晕</item>
+        <item>波纹</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>默认</item>
+        <item>紧凑</item>
+    </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>铃声</item>
+        <item>媒体</item>
+    </string-array>
+    </resources>

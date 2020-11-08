@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_settings_notification_use_app_icon">使用原始应用图标</string>
+    <string name="status_bar_settings_show_lte_for_4g">使用LTE图标代替4G</string>
+    <string name="control_panel_switch_side">对调控制中心</string>
+    <string name="power_menu_under_keyguard_summary">当设备锁定时允许使用电源菜单</string>
+    <string name="power_menu_under_keyguard_title">允许电源菜单</string>
+    <string name="lockscreen_sidepanel_shortcuts_summary">自定义锁屏侧边栏快捷方式</string>
+    <string name="lockscreen_sidepanel_shortcuts_title">侧边栏快捷方式</string>
+    <string name="quick_settings_under_keyguard_summary">当设备锁定时允许使用快捷设置</string>
+    <string name="quick_settings_under_keyguard_title">允许快捷设置</string>
+    <string name="charge_animation_style_summary">选择你喜欢的充电动画</string>
+    <string name="charge_animation_style_title">充电动画</string>
+    <string name="status_bar_settings_show_weather">在下拉通知显示天气</string>
+    <string name="status_bar_settings_qs_layout">快捷设置布局</string>
+    <string name="allow_all_rotations_title">允许所有屏幕方向</string>
+    <string name="default_vol_stream_title">音量控制默认流</string>
+    <string name="unmute_sound_title">取消静音提示音</string>
+    <string name="corner_assistant_gesture_summary">从左下角或右下角上划唤醒谷歌助手</string>
+    <string name="corner_assistant_gesture_title">边缘上滑唤醒谷歌助手</string>
+    <string name="extended_power_menu">扩展电源菜单</string>
+</resources>
