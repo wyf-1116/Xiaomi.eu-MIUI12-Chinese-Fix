@@ -19,4 +19,9 @@
     <string name="corner_assistant_gesture_summary">从左下角或右下角上划唤醒谷歌助手</string>
     <string name="corner_assistant_gesture_title">边缘上滑唤醒谷歌助手</string>
     <string name="extended_power_menu">扩展电源菜单</string>
+    <string name="device_description_battery">电池容量</string>
+    <string name="device_description_cpu">处理器</string>
+    <string name="device_description_ram">运行内存</string>
+    <string name="device_description_resolution">分辨率</string>
+    <string name="device_description_screen">屏幕尺寸</string>
 </resources>
