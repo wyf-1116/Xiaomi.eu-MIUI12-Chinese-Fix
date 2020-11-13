@@ -24,7 +24,6 @@
     <string name="device_description_ram">运行内存</string>
     <string name="device_description_resolution">分辨率</string>
     <string name="device_description_screen">屏幕尺寸</string>
-    <string name="module_version">Google Play 系统更新</string>
     <string name="dsu_is_running">动态系统更新正在运行</string>
     <string name="dsu_loader_description">加载动态系统更新镜像</string>
     <string name="dsu_loader_loading">加载中...</string>
