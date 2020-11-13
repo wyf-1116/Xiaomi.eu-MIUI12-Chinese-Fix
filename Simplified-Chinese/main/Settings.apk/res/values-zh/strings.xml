@@ -24,4 +24,15 @@
     <string name="device_description_ram">运行内存</string>
     <string name="device_description_resolution">分辨率</string>
     <string name="device_description_screen">屏幕尺寸</string>
+    <string name="module_version">Google Play 系统更新</string>
+    <string name="dsu_is_running">动态系统更新正在运行</string>
+    <string name="dsu_loader_description">加载动态系统更新镜像</string>
+    <string name="dsu_loader_loading">加载中...</string>
+    <string name="dsu_loader_title">动态系统更新 (DSU) 加载程序</string>
+    <string name="overlay_settings_summary">允许具有在其他应用上层显示权限的应用在设置上层显示</string>
+    <string name="overlay_settings_title">允许在设置上层显示</string>
+    <string name="wifi_unsaved_network_linking">SSID 桥接 ‑ 自动连接</string>
+    <string name="wifi_unsaved_network_linking_summary">自动使用当前连接的 2.4G 网络的密码尝试连接有相似的 SSID 的 WPA/WPA2‑PSK 加密 5GHz 网络</string>
+    <string name="wifi_whitelist_roaming">SSID 桥接 - 快速切换</string>
+    <string name="wifi_whitelist_roaming_summary">允许在拥有相同网关 MAC 地址但不同 SSID 的无线网络之间漫游</string>
 </resources>
