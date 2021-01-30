@@ -34,4 +34,12 @@
     <string name="wifi_unsaved_network_linking_summary">自动使用当前连接的 2.4G 网络的密码尝试连接有相似的 SSID 的 WPA/WPA2‑PSK 加密 5GHz 网络</string>
     <string name="wifi_whitelist_roaming">SSID 桥接 - 快速切换</string>
     <string name="wifi_whitelist_roaming_summary">允许在拥有相同网关 MAC 地址但不同 SSID 的无线网络之间漫游</string>
+    <string name="wifi_display_autonomous_go">启用匿名GO模式</string>
+    <string name="wifi_display_certification">无线显示认证</string>
+    <string name="wifi_display_certification_heading">认证</string>
+    <string name="wifi_display_certification_summary">展示无线显示认证选项</string>
+    <string name="wifi_display_listen_channel">监听信道</string>
+    <string name="wifi_display_listen_mode">启用监听模式</string>
+    <string name="wifi_display_operating_channel">运行信道</string>
+    <string name="wifi_display_wps_config">WPS选项</string>
 </resources>
