@@ -42,4 +42,5 @@
     <string name="wifi_display_listen_mode">启用监听模式</string>
     <string name="wifi_display_operating_channel">运行信道</string>
     <string name="wifi_display_wps_config">WPS选项</string>
+    <string name="var_font_switch_title">系统全局字体</string>
 </resources>
