@@ -43,6 +43,6 @@
     <string name="wifi_display_operating_channel">运行信道</string>
     <string name="wifi_display_wps_config">WPS选项</string>
     <string name="var_font_switch_title">系统全局字体</string>
-    <string name="bluetooth_enable_page_scan">启用蓝牙设备发现（Page ）</string>
+    <string name="bluetooth_enable_page_scan">启用蓝牙设备发现（Page Scan）</string>
     <string name="bluetooth_enable_page_scan_summary">在蓝牙测试中启用或者停用设备发现</string>
 </resources>
