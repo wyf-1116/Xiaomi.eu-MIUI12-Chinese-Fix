@@ -40,6 +40,7 @@
     <string name="menu_title_current_version_log">新特性</string>
     <string name="menu_title_pick_rom_file">选择更新包</string>
     <string name="menu_title_recovery">重启进入 Recovery 模式</string>
+    <string name="menu_title_show_notifications">启用通知</string>
     <string name="message">%1$s</string>
     <string name="message_checkbox">隐藏来自 Xiaomi.eu 团队的消息</string>
     <string name="message_checkbox_device">不再显示</string>
