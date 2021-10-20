@@ -5,4 +5,6 @@
     <string name="phone_check">清理优化</string>
     <string name="battery_history">耗电详情</string>
     <string name="whatsapp_photos">WhatsApp 拍照</string>
+    <string name="calc_convert">单位转换</string>
+    <string name="midrop_send">发送</string>
 </resources>
